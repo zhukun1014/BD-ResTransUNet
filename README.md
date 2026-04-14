@@ -11,13 +11,6 @@ Our framework addresses the inherent contradiction between semantic abstraction 
 2. **Geometric-Adaptive Hybrid Deformable Attention (HDA):** Dynamically reconfigures receptive fields to capture non-rigid lesion topologies.
 3. **Multi-Scale Synergistic Fusion (MSF):** A semantic gateway for heterogeneous feature alignment and purification.
 
-## Pretrained Weights
-
-Due to GitHub file size limitations, the pretrained model weights are hosted externally.
-
-You can download all trained weights from the following link:
-https://drive.google.com/drive/folders/1WikwHWSnkOD1dK4vNTh_zZSunm2YVC9u?usp=sharing
-
 ## 📁 Repository Structure
 ```text
 ├── models/
